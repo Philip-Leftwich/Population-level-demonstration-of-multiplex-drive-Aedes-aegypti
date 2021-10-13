@@ -1,4 +1,4 @@
-# Population-level-demonstration-of-a-multiplexed-confinable-CRISPR-Cas9-gene-drive-system-in-the-yel
+# Population level demonstration of a multiplexed confinable CRISPR/Cas9 gene drive system in the yellow fever mosquito *Aedes aegypti*
 Phenotype analyses to accompany manuscript
 
 # Analysis
